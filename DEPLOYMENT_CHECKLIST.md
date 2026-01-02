@@ -13,7 +13,7 @@ Open in browser: https://github.com/organizations/plan
 ### 2. Create Repository
 Open in browser: https://github.com/creditcardpayoffcalc
 - Click "New repository"
-- Name: `creditcardpayoffcalc.github.io`
+- Name: `home-finance-calc.github.io/credit-card-payoff`
 - Set to **Public**
 - Create repository (don't add README)
 
@@ -24,19 +24,19 @@ git init
 git add .
 git commit -m "Initial commit"
 git branch -M main
-git remote add origin https://github.com/creditcardpayoffcalc/creditcardpayoffcalc.github.io.git
+git remote add origin https://github.com/creditcardpayoffcalc/home-finance-calc.github.io/credit-card-payoff.git
 git push -u origin main
 ```
 
 ### 4. Enable GitHub Pages
-Open: https://github.com/creditcardpayoffcalc/creditcardpayoffcalc.github.io/settings/pages
+Open: https://github.com/creditcardpayoffcalc/home-finance-calc.github.io/credit-card-payoff/settings/pages
 - Source: Deploy from a branch
 - Branch: main
 - Folder: / (root)
 - Save
 
 ### 5. Verify Site is Live
-Wait 2 minutes, then open: https://creditcardpayoffcalc.github.io/
+Wait 2 minutes, then open: https://home-finance-calc.github.io/credit-card-payoff/
 
 ---
 
@@ -44,7 +44,7 @@ Wait 2 minutes, then open: https://creditcardpayoffcalc.github.io/
 
 ### 1. Apply for AdSense
 Open: https://www.google.com/adsense/start/
-- Website: `https://creditcardpayoffcalc.github.io`
+- Website: `https://home-finance-calc.github.io/credit-card-payoff`
 - Email: `tmobilestore944@gmail.com`
 
 ### 2. After Approval - Update Publisher ID
@@ -75,7 +75,7 @@ git push
 ### 1. Add Property
 Open: https://search.google.com/search-console/
 - Add property → URL prefix
-- URL: `https://creditcardpayoffcalc.github.io/`
+- URL: `https://home-finance-calc.github.io/credit-card-payoff/`
 
 ### 2. Verify with HTML Tag
 Copy the meta tag, add to `index.html` `<head>`, push changes.
@@ -88,10 +88,10 @@ In Search Console → Sitemaps → Add: `sitemap.xml`
 ## Checklist
 
 - [ ] Created GitHub organization `creditcardpayoffcalc`
-- [ ] Created repository `creditcardpayoffcalc.github.io`
+- [ ] Created repository `home-finance-calc.github.io/credit-card-payoff`
 - [ ] Pushed code to repository
 - [ ] Enabled GitHub Pages
-- [ ] Site is live at https://creditcardpayoffcalc.github.io/
+- [ ] Site is live at https://home-finance-calc.github.io/credit-card-payoff/
 - [ ] Applied for Google AdSense
 - [ ] Updated Publisher ID in all files (after approval)
 - [ ] Added to Google Search Console
@@ -103,10 +103,10 @@ In Search Console → Sitemaps → Add: `sitemap.xml`
 
 | Resource | URL |
 |----------|-----|
-| Live Site | https://creditcardpayoffcalc.github.io/ |
+| Live Site | https://home-finance-calc.github.io/credit-card-payoff/ |
 | GitHub Org | https://github.com/creditcardpayoffcalc |
-| Repository | https://github.com/creditcardpayoffcalc/creditcardpayoffcalc.github.io |
-| GitHub Pages Settings | https://github.com/creditcardpayoffcalc/creditcardpayoffcalc.github.io/settings/pages |
+| Repository | https://github.com/creditcardpayoffcalc/home-finance-calc.github.io/credit-card-payoff |
+| GitHub Pages Settings | https://github.com/creditcardpayoffcalc/home-finance-calc.github.io/credit-card-payoff/settings/pages |
 | AdSense | https://www.google.com/adsense/ |
 | Search Console | https://search.google.com/search-console/ |
 

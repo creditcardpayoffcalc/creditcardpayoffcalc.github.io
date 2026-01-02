@@ -1,11 +1,11 @@
 # robots.txt for Credit Card Payoff Calculator
-# https://creditcardpayoffcalc.github.io/
+# https://home-finance-calc.github.io/credit-card-payoff/
 
 User-agent: *
 Allow: /
 
 # Sitemap location
-Sitemap: https://creditcardpayoffcalc.github.io/sitemap.xml
+Sitemap: https://home-finance-calc.github.io/credit-card-payoff/sitemap.xml
 
 # Crawl-delay for polite crawling
 Crawl-delay: 1
