@@ -2,7 +2,7 @@
 
 A free, fast, and privacy-focused credit card payoff calculator. Calculate how long it will take to be debt-free based on your monthly payments.
 
-**Live Site:** https://home-finance-calc.github.io/credit-card-payoff/
+**Live Site:** https://creditcardpayoffcalc.github.io/
 
 ## Features
 
@@ -31,7 +31,7 @@ A free, fast, and privacy-focused credit card payoff calculator. Calculate how l
 
 1. Go to your new org: https://github.com/creditcardpayoffcalc
 2. Click **"New repository"** (or the green "Create a new repository" button)
-3. **Repository name:** `home-finance-calc.github.io/credit-card-payoff` (MUST match org name + .github.io)
+3. **Repository name:** `creditcardpayoffcalc.github.io` (MUST match org name + .github.io)
 4. Set to **Public** (required for free GitHub Pages)
 5. Click **"Create repository"**
 
@@ -52,7 +52,7 @@ git add .
 git commit -m "Initial commit: Credit Card Payoff Calculator"
 
 # Add remote (replace with your actual org if different)
-git remote add origin https://github.com/creditcardpayoffcalc/home-finance-calc.github.io/credit-card-payoff.git
+git remote add origin https://github.com/creditcardpayoffcalc/creditcardpayoffcalc.github.io.git
 
 # Push to main branch
 git branch -M main
@@ -61,12 +61,12 @@ git push -u origin main
 
 ### Step 4: Enable GitHub Pages
 
-1. Go to your repo: https://github.com/creditcardpayoffcalc/home-finance-calc.github.io/credit-card-payoff
+1. Go to your repo: https://github.com/creditcardpayoffcalc/creditcardpayoffcalc.github.io
 2. Click **Settings** → **Pages** (in left sidebar)
 3. Under "Source", select **"Deploy from a branch"**
 4. Select **"main"** branch and **"/ (root)"** folder
 5. Click **Save**
-6. Wait 1-2 minutes, then visit: https://home-finance-calc.github.io/credit-card-payoff/
+6. Wait 1-2 minutes, then visit: https://creditcardpayoffcalc.github.io/
 
 ---
 
@@ -77,7 +77,7 @@ git push -u origin main
 1. Go to https://www.google.com/adsense/
 2. Click **"Get Started"**
 3. Sign in with your Google account
-4. Enter your website URL: `https://home-finance-calc.github.io/credit-card-payoff`
+4. Enter your website URL: `https://creditcardpayoffcalc.github.io`
 5. Email: `tmobilestore944@gmail.com`
 6. Country: Select your country
 7. Accept terms and click **"Start using AdSense"**
@@ -130,7 +130,7 @@ AdSense may require verification. The script tag in your HTML head section serve
 1. Go to https://search.google.com/search-console
 2. Click **"Add Property"**
 3. Choose **"URL prefix"**
-4. Enter: `https://home-finance-calc.github.io/credit-card-payoff/`
+4. Enter: `https://creditcardpayoffcalc.github.io/`
 
 ### Step 2: Verify Ownership
 
@@ -177,7 +177,7 @@ git commit -m "Update: $(date '+%Y-%m-%d %H:%M:%S')"
 git push origin main
 
 echo "✅ Deployment complete!"
-echo "🌐 Visit: https://home-finance-calc.github.io/credit-card-payoff/"
+echo "🌐 Visit: https://creditcardpayoffcalc.github.io/"
 ```
 
 ---
